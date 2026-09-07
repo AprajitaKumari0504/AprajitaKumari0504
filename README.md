@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Aprajita Kumari
 
 A passionate Full Stack MEAN Developer 🎯 from India.
-- 🌱 I’m currently learning Angular 21 and DSA
+- 🌱 I’m currently learning Angular 21 and DSA and Python
 
 
 How to Reach Me
